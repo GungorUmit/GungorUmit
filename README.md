@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with Python.
 - 💬 Ask me about how to start to learn Python
 - 📫 How to reach me: https://www.linkedin.com/in/umitgungor321/
-- 😄 Pronouns: He/His
+
