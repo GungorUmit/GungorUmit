@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Umit.
 
 - 🔭 I’m currently working on my portfolio website.
-- 🌱 I’m currently learning Python, Html, CSS, JavaScript
+- 🌱 I’m currently learning Python, Html, CSS, SQL
 - 👯 I’m looking to collaborate on Python projects.
 - 🤔 I’m looking for help with Python.
 - 💬 Ask me about how to start to learn Python
