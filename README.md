@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on Python projects.
 - 🤔 I’m looking for help with Python.
 - 💬 Ask me about how to start to learn Python
-- 📫 How to reach me: https://www.linkedin.com/in/umitgungor321/
+- 📫 How to reach me: https://www.linkedin.com/in/gungorumit/
 
