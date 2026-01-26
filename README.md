@@ -19,8 +19,9 @@
 - 🌱 I’m currently learning Python,React, FastAPI, RAG, LLMs, Agents and deepening my knowledge in AI and machine learning.  
 - 👯 I’m looking to collaborate on open source projects, applied AI solutions, and creative tech initiatives.  
 - 🤔 I’m looking for help with advanced AI concepts, real-world deployment strategies, and scaling full stack applications. 
-- ⚡ Fun fact: When I’m not coding, I like to do DIY Furniture / Woodworking!  🛠️ 🧰 
--  📫 How to reach me: https://www.linkedin.com/in/gungorumit/
+- ⚡ Fun fact: When I’m not coding, I like to do DIY Furniture / Woodworking!  🛠️ 🧰
+- 👨‍💻 All of my projects are available at [portfolio](portfolio website soon)
+-  📫 How to reach me: https://www.linkedin.com/in/gungorumit/ or email me; umitgungor321@gmail.com
 
 ## 🛠 &nbsp;Tech Stack
 
