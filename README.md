@@ -7,3 +7,5 @@
 - 💬 Ask me about how to start to learn Python
 - 📫 How to reach me: https://www.linkedin.com/in/gungorumit/
 
+- test
+
