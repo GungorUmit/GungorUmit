@@ -10,8 +10,18 @@
 </p>
 
 
+<h3> 
+<p align="justify">
+I'm a <strong> Artificial Intelligence Developer </strong> with a practical, rigorous approach to the complete project lifecycle. I prioritize adaptability to constant changes in AI projects while excelling at solving complex problems under pressure. Highly collaborative, I thrive in diverse professional teams—learning from each member and contributing to departmental growth. Currently consolidating my skills in <strong> AI/ML development </strong> and eager to collaborate on innovative projects.
+</p>
+</h3>
+
+<br>
+</br>
 
 
+<br>
+</br>
 
 ---
 
