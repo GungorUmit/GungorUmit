@@ -31,8 +31,8 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/mr-melenas/FalseBait" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Phishing%20Detection%20Project-%23F4B400?style=for-the-badge&logoColor=white" alt="Phishing Detection Project"/>
+  <a href="https://github.com/GungorUmit/Equipo_2_Proyecto_XI_LLMs_Generador-de-Contenido" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Phishing%20Detection%20Project-%23F4B400?style=for-the-badge&logoColor=white" alt="Generador de Contenido"/>
   </a>
 </p>
 
