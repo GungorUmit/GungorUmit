@@ -23,6 +23,20 @@
 - 👨‍💻 All of my projects are available at [portfolio](portfolio website soon)
 -  📫 How to reach me: https://www.linkedin.com/in/gungorumit/ or email me; umitgungor321@gmail.com
 
+
+
+
+<h2 align="center" > 
+📌 Highlighted Projects
+</h2>
+
+<p align="center">
+  <a href="https://github.com/mr-melenas/FalseBait" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Phishing%20Detection%20Project-%23F4B400?style=for-the-badge&logoColor=white" alt="Phishing Detection Project"/>
+  </a>
+</p>
+
+
 ## 🛠 &nbsp;Tech Stack
 
 
