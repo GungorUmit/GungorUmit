@@ -10,7 +10,11 @@
 </p>
 
 
-<p align="center"><a href="https://github.com/GungorUmit/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a></p>
+## 🏆 GitHub Visits
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GungorUmit&label=Profile%20views&color=0e75b6&style=flat" alt="GungorUmit" /> </p>
+
+![](https://github-profile-trophy.vercel.app/?username=keshabkjha&theme=radical&hide_border=false&include_all_commits=true&count_private=true&no-frame=false&no-bg=true&margin-w=4)
 
 
 ---
