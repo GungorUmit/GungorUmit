@@ -65,6 +65,17 @@
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+## 🏆 View my verified badges(will add more certificates soon...)
+<!--START_SECTION:badges-->
+
+<a href="https://www.credly.com/badges/ce60dc54-afd0-4bac-9eb5-da5ba79f5843" title="Python Essentials">
+  <img src="https://images.credly.com/size/80x80/images/[image-path]/[filename].png" alt="Python Essentials" width="80" height="80">
+</a>
+
+<!--END_SECTION:badges-->
+
+
+
 ## 📊 Profile Statistics
 
 ### 💳 Github Profile Summary Card
