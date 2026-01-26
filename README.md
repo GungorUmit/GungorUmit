@@ -69,10 +69,11 @@
 <!--START_SECTION:badges-->
 
 <a href="https://www.credly.com/badges/ce60dc54-afd0-4bac-9eb5-da5ba79f5843" title="Python Essentials">
-  <img src="https://images.credly.com/size/80x80/images/[image-path]/[filename].png" alt="Python Essentials" width="80" height="80">
+  <img src="https://images.credly.com/size/80x80/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials" width="80" height="80">
 </a>
 
 <!--END_SECTION:badges-->
+
 
 
 
