@@ -56,7 +56,7 @@ I'm a <strong> Artificial Intelligence Developer </strong> with a practical, rig
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented-ff69b4?style=for-the-badge)
 
 
-#### 🧠 Languages & Technologies I Use
+#### ✨ **Languages & Technologies I Use**
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -64,14 +64,14 @@ I'm a <strong> Artificial Intelligence Developer </strong> with a practical, rig
 ![Pandas](https://img.shields.io/badge/Pandas-%2315051C.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-#### 💻 AI/ML Frameworks
+#### 💻 **AI/ML Frameworks**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pythorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit__Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-%2396DE26.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 
-#### 📊 Data & Dev Tools
+#### 📊 **Data & Dev Tools**
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -79,7 +79,7 @@ I'm a <strong> Artificial Intelligence Developer </strong> with a practical, rig
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 
-##### ⚙️ Frameworks
+##### ⚙️ **Frameworks**
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -88,7 +88,7 @@ I'm a <strong> Artificial Intelligence Developer </strong> with a practical, rig
 ### ⚙️ **Cloud**
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-#### 🔧 Tools
+#### 🔧 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
