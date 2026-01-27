@@ -14,7 +14,8 @@
 
 <h3> 
 <p align="justify">
-I'm a <strong> Artificial Intelligence Developer </strong> with a practical, rigorous approach to the complete project lifecycle. I prioritize adaptability to constant changes in AI projects while excelling at solving complex problems under pressure. Highly collaborative, I thrive in diverse professional teams—learning from each member and contributing to departmental growth. Currently consolidating my skills in <strong> AI/ML development </strong> and eager to collaborate on innovative projects.
+I'm a <strong> Artificial Intelligence Developer </strong> with a practical, rigorous approach to the complete project lifecycle. I prioritize adaptability to constant changes in AI projects while excelling at solving complex problems under pressure. Highly collaborative, I thrive in diverse professional teams—learning from each member and contributing to departmental growth. Currently consolidating my skills in <strong> AI/ML development </strong> and eager to collaborate on innovative projects. My interests lie in the field of AI development  and Machine Learning. This includes certifications such as Artificial Intelligence intensive Bootcamp. I am currently in the process of certifying in Azure AI Engineer Associate.
+
 </p>
 </h3>
 
