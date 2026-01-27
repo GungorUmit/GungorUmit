@@ -36,6 +36,8 @@ I'm a <strong> Artificial Intelligence Developer </strong> with a practical, rig
 
 
 
+
+
 <h2 align="center" > 
 📌 Highlighted Projects
 </h2>
@@ -45,6 +47,9 @@ I'm a <strong> Artificial Intelligence Developer </strong> with a practical, rig
     <img src="https://img.shields.io/badge/Generador%20de%20Contenido%20Project-%23F4B400?style=for-the-badge&logoColor=white" alt="Generador de Contenido"/>
   </a>
 </p>
+
+
+
 
 
 ## 🛠 &nbsp;Tech Stack
