@@ -49,6 +49,12 @@ I'm a <strong> Artificial Intelligence Developer </strong> with a practical, rig
 
 ## 🛠 &nbsp;Tech Stack
 
+### 🧠 **Aritifical Intelligence & Data**
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Generative%20AI-blueviolet?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented-ff69b4?style=for-the-badge)
+
 
 #### 🧠 Languages & Technologies I Use
 
@@ -79,7 +85,8 @@ I'm a <strong> Artificial Intelligence Developer </strong> with a practical, rig
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 
-
+### ⚙️ **Cloud**
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 #### 🔧 Tools
 
@@ -87,6 +94,7 @@ I'm a <strong> Artificial Intelligence Developer </strong> with a practical, rig
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 
 ## 🏆 View my verified badges(will add more certificates soon...)
