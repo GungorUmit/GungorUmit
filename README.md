@@ -85,7 +85,7 @@ I'm a <strong> Artificial Intelligence Developer </strong> with a practical, rig
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 
-### ⚙️ **Cloud**
+### 🌌 **Cloud**
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 🔧 **Tools**
