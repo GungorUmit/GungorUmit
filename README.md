@@ -6,8 +6,10 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Developer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Developer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
+
+
 
 
 <h3> 
@@ -39,7 +41,7 @@ I'm a <strong> Artificial Intelligence Developer </strong> with a practical, rig
 
 
 <h2 align="center" > 
-📌 Highlighted Projects
+📌 Top Projects I've Contributed To
 </h2>
 
 <p align="center">
@@ -48,6 +50,13 @@ I'm a <strong> Artificial Intelligence Developer </strong> with a practical, rig
   </a>
 </p>
 
+</h2>
+
+<p align="center">
+  <a href="https://github.com/GungorUmit/Proyecto-de-Machine-Learning-para-Clasificaci-n-de-Salud-Fetal-" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/ML-Clasificación de Salud Fetal%20-%23F4B400?style=for-the-badge&logoColor=white" alt="ML-Clasificación de Salud Fetal"/>
+  </a>
+</p>
 
 
 
