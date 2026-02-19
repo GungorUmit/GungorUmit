@@ -48,13 +48,7 @@ I'm a <strong> Artificial Intelligence Developer </strong> with a practical, rig
   </a>
 </p>
 
-</h2>
 
-<p align="center">
-  <a href="https://github.com/GungorUmit/Proyecto-de-Machine-Learning-para-Clasificaci-n-de-Salud-Fetal-" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/ML-Clasificación de Salud Fetal%20-%23F4B400?style=for-the-badge&logoColor=white" alt="ML-Clasificación de Salud Fetal"/>
-  </a>
-</p>
 
 
 
