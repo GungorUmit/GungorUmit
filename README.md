@@ -38,6 +38,23 @@ I'm a <strong> Artificial Intelligence Developer </strong> with a practical, rig
 
 
 
+<h2 align="center" > 
+📌 Top Projects I've Developed
+</h2>
+
+<p align="center">
+  <a href="https://github.com/GungorUmit/mood_tune_music_recommendation" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Music%20de%20Recommendation%20Project-%23F4B400?style=for-the-badge&logoColor=white" alt="MoodTune Music Recommendation"/>
+  </a>
+</p>
+
+</h2>
+
+<p align="center">
+  <a href="https://github.com/GungorUmit/Proyecto-de-Machine-Learning-para-Clasificaci-n-de-Salud-Fetal-" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/ML-Clasificación de Salud Fetal%20-%23F4B400?style=for-the-badge&logoColor=white" alt="ML-Clasificación de Salud Fetal"/>
+  </a>
+</p>
 
 
 
