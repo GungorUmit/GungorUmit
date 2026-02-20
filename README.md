@@ -54,6 +54,15 @@ I'm a <strong> Artificial Intelligence Developer </strong> with a practical, rig
 
 <h2 align="center" > 
 📌 Top Projects I've Contributed To
+  
+</h2>
+
+<p align="center">
+  <a href="https://github.com/GungorUmit/Computer-Vision---Brand-Detection-Project" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Brand%20Detection%20Contenido%20Project-%23F4B400?style=for-the-badge&logoColor=white" alt="Computer Vision - Brand Detection Project"/>
+  </a>
+</p>
+
 </h2>
 
 <p align="center">
