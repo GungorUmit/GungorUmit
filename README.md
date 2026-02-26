@@ -1,28 +1,26 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+xml
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 
-<div align="center"><img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true /></div>
+<div style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 15px; line-height: 1.7; max-width: 800px; margin: 0 auto;">
+  
+  <h3 style="font-weight: 600; font-size: 18px; margin-bottom: 12px; color: #1a1a1a;">
+    <span style="font-size: 20px; margin-right: 8px;">🇪🇸</span>
+    Desarrollador de Inteligencia Artificial
+  </h3>
+  
+  <p style="margin-bottom: 20px; text-align: justify; color: #333;">
+    Soy <strong style="font-weight: 600;">Desarrollador de Inteligencia Artificial</strong> con un enfoque práctico y riguroso en todo el ciclo de vida de los proyectos. Priorizo la adaptabilidad ante los constantes cambios en los proyectos de IA, destacando en la resolución de problemas complejos bajo presión. Altamente colaborativo, prospero en equipos profesionales diversos, aprendiendo de cada miembro y contribuyendo al crecimiento del departamento. Actualmente estoy consolidando mis habilidades en <strong>desarrollo de IA/ML</strong> y busco colaborar en proyectos innovadores. Cuento con certificaciones como un Bootcamp intensivo de Inteligencia Artificial y actualmente estoy en proceso de obtener la certificación <strong>Azure AI Engineer Associate</strong>.
+  </p>
 
-<h3 align="center">Hola/Hi, I'm Umit Gungor</h3>
-
-
-<p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Developer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
-</p>
-
-
-
-
-<h3 style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.6;">
-<p align="justify">
-🇪🇸  
-Soy <strong>Desarrollador de Inteligencia Artificial</strong> con un enfoque práctico y riguroso en todo el ciclo de vida de los proyectos. Priorizo la adaptabilidad ante los constantes cambios en los proyectos de IA, destacando en la resolución de problemas complejos bajo presión. Altamente colaborativo, prospero en equipos profesionales diversos, aprendiendo de cada miembro y contribuyendo al crecimiento del departamento. Actualmente estoy consolidando mis habilidades en <strong>desarrollo de IA/ML</strong> y busco colaborar en proyectos innovadores. Mis intereses se centran en el ámbito del desarrollo de Inteligencia Artificial y el Aprendizaje Automático. Cuento con certificaciones como un Bootcamp intensivo de Inteligencia Artificial y actualmente estoy en proceso de obtener la certificación <strong>Azure AI Engineer Associate</strong>.
-</p>
-
-<p align="justify">
-🏴  
-I'm an <strong>Artificial Intelligence Developer</strong> with a practical, rigorous approach to the complete project lifecycle. I prioritize adaptability to constant changes in AI projects while excelling at solving complex problems under pressure. Highly collaborative, I thrive in diverse professional teams — learning from each member and contributing to departmental growth. Currently consolidating my skills in <strong>AI/ML development</strong> and eager to collaborate on innovative projects. My interests lie in the field of AI development and Machine Learning. This includes certifications such as an intensive Artificial Intelligence Bootcamp, and I am currently pursuing the <strong>Azure AI Engineer Associate</strong> certification.
-</p>
-</h3>
+  <h3 style="font-weight: 600; font-size: 18px; margin-bottom: 12px; color: #1a1a1a;">
+    <span style="font-size: 20px; margin-right: 8px;">🏴󠁧󠁢󠁥󠁮󠁧󠁿</span>
+    Artificial Intelligence Developer
+  </h3>
+  
+  <p style="margin-bottom: 0; text-align: justify; color: #333;">
+    I'm an <strong style="font-weight: 600;">Artificial Intelligence Developer</strong> with a practical, rigorous approach to the complete project lifecycle. I prioritize adaptability to constant changes in AI projects while excelling at solving complex problems under pressure. Highly collaborative, I thrive in diverse professional teams—learning from each member and contributing to departmental growth. Currently consolidating my skills in <strong>AI/ML development</strong> and eager to collaborate on innovative projects. This includes certifications such as an intensive AI Bootcamp, and I'm pursuing the <strong>Azure AI Engineer Associate</strong> certification.
+  </p>
+</div>
 
 
 ---
