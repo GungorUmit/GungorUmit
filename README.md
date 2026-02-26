@@ -14,8 +14,10 @@
 
 <h3> 
 <p align="justify">
+🇪🇸  
 Soy Desarrollador de Inteligencia Artificial con un enfoque práctico y riguroso en todo el ciclo de vida de los proyectos. Priorizo la adaptabilidad ante los constantes cambios en los proyectos de IA, destacando en la resolución de problemas complejos bajo presión. Altamente colaborativo, prospero en equipos profesionales diversos, aprendiendo de cada miembro y contribuyendo al crecimiento del departamento. Actualmente estoy consolidando mis habilidades en desarrollo de IA/ML y busco colaborar en proyectos innovadores. Mis intereses se centran en el ámbito del desarrollo de Inteligencia Artificial y el Aprendizaje Automático. Cuento con certificaciones como un Bootcamp intensivo de Inteligencia Artificial y actualmente estoy en proceso de obtener la certificación Azure AI Engineer Associate.
   
+🏴󠁧󠁢󠁥󠁮󠁧󠁿   
 I'm a <strong> Artificial Intelligence Developer </strong> with a practical, rigorous approach to the complete project lifecycle. I prioritize adaptability to constant changes in AI projects while excelling at solving complex problems under pressure. Highly collaborative, I thrive in diverse professional teams—learning from each member and contributing to departmental growth. Currently consolidating my skills in <strong> AI/ML development </strong> and eager to collaborate on innovative projects. My interests lie in the field of AI development  and Machine Learning. This includes certifications such as Artificial Intelligence intensive Bootcamp. I am currently in the process of certifying in Azure AI Engineer Associate.
 
 </p>
