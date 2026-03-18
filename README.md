@@ -46,7 +46,7 @@
 - 👯 I’m looking to collaborate on open source projects, applied AI solutions, and creative tech initiatives.  
 - 🤔 I’m looking for help with advanced AI concepts, real-world deployment strategies, and scaling full stack applications. 
 - ⚡ Fun fact: When I’m not coding, I like to do DIY Furniture / Woodworking! I find it as a hobby for me. 🛠️ 🧰
-- 👨‍💻 All of my projects are available at [portfolio](portfolio website soon)
+- 👨‍💻 All of my projects are available at [[http](https://www.umitgungor.me/)]
 -  📫 How to reach me: https://www.linkedin.com/in/gungorumit/ or email me; umitgungor321@gmail.com
 
 
