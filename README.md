@@ -67,6 +67,14 @@
 
 <h2 align="center" > 
 📌 Top Projects I've Contributed To
+
+</h2>
+
+<p align="center">
+  <a href="https://github.com/GungorUmit/Datum-Gemelo-IA-backend" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Datum%20Detection%20Project-%23F4B400?style=for-the-badge&logoColor=white" alt="Datum Gemelo AI - Avatar IA Conversacional de Aprendizaje Personal"/>
+  </a>
+</p>
   
 </h2>
 
